@@ -1,0 +1,41 @@
+.video-container {
+    background: black;
+    display: inline-block;
+    line-height: 0;
+    max-width: 80%;
+    width: 100%;
+}
+
+#logs-header {
+    margin-top: 20px;
+}
+
+.preserve-whitespace {
+    white-space: pre-wrap;
+}
+
+video {
+    width: 100%;
+}
+
+pre .error {
+    color: red;
+}
+
+pre .warn {
+    color: goldenrod;
+}
+
+.padding{
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 3%;
+}
+
+.top-margin{
+    margin-top: 5%;
+}
+
+.video-container{
+    background-color: #ded9d9;
+}
